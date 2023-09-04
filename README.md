@@ -21,8 +21,7 @@
 - Real-World Assets: Bonsai Plants,
 - Project idea:
   
-      + Care about origin: shape the embryo tree, nourish and care for the tree, display and introduce them to the public,
-  trading.
+      + Care about origin: shape the embryo tree, nourish and care for the tree, introduce them to the public, trading.
       + Care about tokenize: Tokenise, manage, and trade Real-world Assets the Bonsai plants on the Klaytn Blockchain.
       + The next tokenize:  releasing other typical collections of antiques, classic cars, pianos, landscape paintings,
   architectural paintings and photos of unique cultural events of Saigon, in order to preserve, increase value and
