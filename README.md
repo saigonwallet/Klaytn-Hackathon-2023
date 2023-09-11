@@ -9,7 +9,7 @@
   <a href="https://facebook.com/saigonwallet">
     <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://discord.gg/wChX3tqdKp">
+  <a href="https://discord.gg/SkgW57EMnM">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <br/>
