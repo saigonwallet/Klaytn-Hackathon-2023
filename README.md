@@ -33,7 +33,21 @@
  - Blockchain: Ethereum Virtual Machine / Klaytn Foundation
  - Languages: **NextJs** / **Solidity** 
 ---
-Find on the web:
+
 -----------------------
-- In public on <a href="https://youtube.com/@saigonwallet">Youtube</a>
+## Getting Started
+
+First, run the production server:
+
+```bash
+npm install
+npm install -g truffle
+npm run genContractType
+truffle migrate --network klaytn_baobap
+
+npm start
+
+```
+
+Open [http://localhost:2023](http://localhost:2023) with your browser to see the result.
 -----------------------
