@@ -34,7 +34,6 @@
  - Languages: **NextJs** / **Solidity** 
 ---
 
------------------------
 ## Getting Started
 
 First, run the production server:
