@@ -36,11 +36,12 @@
 
 ## Getting Started
 
-First, run the production server:
+First, run the development server:
 
 ```bash
 npm install
 npm install -g truffle
+truffle migrate
 npm run genContractType
 truffle migrate --network klaytn_baobap
 
